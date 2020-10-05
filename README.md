@@ -10,14 +10,14 @@ This application allows you to register the user to this app, see the list of re
 
 ## Screens
 * ### Welcome Screen
-![WelcomeScreen](/Screens/screen1.png)
+  ![WelcomeScreen](/Screens/screen1.png)
 * ### Login Screen
-![Login Screen](/Screens/screen2.png)
+  ![Login Screen](/Screens/screen2.png)
 * ### Registration Screen
-![User Registration](/Screens/screen3.png)
+  ![User Registration](/Screens/screen3.png)
 * ### Date Picker in registration form
-![Date Picker](/Screens/screen4.png)
+  ![Date Picker](/Screens/screen4.png)
 * ### Country Picker in registration form
-![Country picker](/Screens/screen5.png)
+  ![Country picker](/Screens/screen5.png)
 * ### Cutomized TableCell View for Users list
-![users list](/Screens/screen6.png)
+  ![users list](/Screens/screen6.png)
